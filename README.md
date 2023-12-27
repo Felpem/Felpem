@@ -12,11 +12,14 @@
 
 ## Projetos
 - 👨‍💻 Atualmente trabalhando em aprender lol.
-- 
+  
 ## Contato
-- 📧 Email: seuemail@example.com
+- 📧 Email: magalhaesf581@gmail.com
 - 💼 LinkedIn: Felipe Magalhães (www.linkedin.com/in/felpem)
 - 📱 Discord: Felpem
 
-## Estatísticas do GitHub
-[!Felpem(https://github-readme-stats.vercel.app/api?username=felpem&show_icons=true&hide_title=true&hide_border=true)](https://github.com/felpem)
+## Github Stats
+[![Felpem GitHub Stats](https://github-readme-stats.vercel.app/api?username=felpem&show_icons=true&theme=radical&count_private=true&hide=stars,contribs&bg_color=000000&text_color=FFFFFF&icon_color=FFD700&title_color=FF4500)](https://github.com/felpem)
+
+
+
